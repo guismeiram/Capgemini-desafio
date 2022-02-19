@@ -9,13 +9,13 @@ import javax.swing.JOptionPane;
 public class Exer02 {
 	public static void main(String []args){
         
-        final int MAX=8;
+        final int MAX=6;
                      
     
-        final int MIN_Uppercase=2;
-        final int MIN_Lowercase=2;
-        final int NUM_Digits=2;
-        final int Special=2;
+        final int MIN_Uppercase=1;
+        final int MIN_Lowercase=1;
+        final int NUM_Digits=1;
+        final int Special=1;
         int uppercaseCounter=0;
         int lowercaseCounter=0;
         int digitCounter=0;
