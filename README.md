@@ -11,5 +11,6 @@ Também é necessario de uma IDE, ou pode ser aberto no vscode.
 O download do eclipse é por este link https://www.eclipse.org/downloads/ baixe o projeto diacordo com seu computador.
 
 Outro connhecimento necessario é o de clonar repositorio. 
-Basta executar este comando no prompt de comando git clone https://github.com/guismeiram/Capgemini-desafio.
+Basta executar este comando no prompt de comando:
+git clone https://github.com/guismeiram/Capgemini-desafio.
   
