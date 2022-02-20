@@ -13,4 +13,6 @@ O download do eclipse é por este link https://www.eclipse.org/downloads/ baixe 
 Outro connhecimento necessario é o de clonar repositorio. 
 Basta executar este comando no prompt de comando:
 git clone https://github.com/guismeiram/Capgemini-desafio.
+
+Teste Unitario, para se fazer o teste eu utilizei metodos void, só que no final durante uma pesquisa, vê que, metódos sem retorno não tem como utilizar Junit. Então creio que essa parte vai faltar. 
   
